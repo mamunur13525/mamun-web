@@ -1,0 +1,22 @@
+#projects {
+    background-color: #1E96E5;
+    
+}
+.card{
+    background: none;
+    border:none;
+    transition: transform .3s;
+}
+.card-body{
+    background-color: #f7f9fb;
+}
+.card-title{
+    font-size:  2.05rem;
+}
+.buttons{
+    width: 135px !important;
+}
+.card:hover{
+    transform: translate(00px, -20px);
+
+}

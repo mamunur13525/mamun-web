@@ -1,0 +1,49 @@
+.main_content {   
+     position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+    z-index: 100;
+    width: 100%;
+    height: 80vh;
+    padding: 20px;
+    padding-top: 14%;
+    color: white;
+    
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+
+}
+main{
+    margin-top: 90px;
+    height: 90vh;
+    overflow: hidden;
+}
+.main-heading {
+    margin-top: 150px;
+}
+.main-img{
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+h2.headingOne {
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+h1.headingTwo {
+    font-size: 4.3rem;
+    font-weight: 400;
+    color: #fff;
+
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #1E96E5, 0 0 20px #1E96E5, 0 0 25px #1E96E5, 0 0 30px #1E96E5, 0 0 35px #1E96E5;
+
+}
+.headingThree{
+    font-size: 40px;
+}
+
+.carousel-item{
+    filter: brightness(25%);
+}
